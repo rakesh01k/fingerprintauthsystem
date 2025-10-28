@@ -364,9 +364,9 @@ The system provides a solid foundation for understanding biometric security whil
 
 ---
 
-**Project Submitted By:** [Student Name]
-**Date:** October 25, 2025
-**Institution:** [College/University Name]
+**Project Submitted By:** [KANAMA RAKESH REDDY]
+**Date:** October 28, 2025
+**Institution:** [Lovely Professional University ]
 **Course:** Cybersecurity & Biometric Systems
 
 ---
